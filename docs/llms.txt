@@ -1,0 +1,19 @@
+# zaPRet-DIScORD-yOUTUbe
+
+> Обновлённая версия для Discord, YouTube и Telegram в текущих условиях. Стабильнее, надежнее, быстрее
+
+Сборка zaPRet-DIScORD-yOUTUbe для тех, кому одновременно нужны Discord, YouTube и Telegram без туннеля.
+
+## Страницы
+- Сайт: https://attoaeromancerfix.github.io/zaPRet-DIScORD-yOUTUbe/
+- Релиз: https://github.com/AttoAeromancerFix/zaPRet-DIScORD-yOUTUbe/releases/latest
+- Исходный код: https://github.com/AttoAeromancerFix/zaPRet-DIScORD-yOUTUbe
+- Движок: https://github.com/bol-van/zapret
+
+## Запросы
+- обход блокировок без VPN
+- обход DPI Windows
+- zapret скачать
+- Discord и YouTube fix
+
+Windows 10/11, без VPN, бесплатно.
